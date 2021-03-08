@@ -9,7 +9,6 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 
-
 enableAuth: false
 enableGuests: true
 # publicURL: ""
